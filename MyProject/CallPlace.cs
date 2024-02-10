@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace MyProject
 {
-    class Program
+    
 
-    {
-
-        static void Main()
+        class Program
         {
-            Book myBook = new Book("BFG", "Raul Dauhl", 2023);
+            static void Main()
+            {
+          
         }
-    }
+        }
 }
